@@ -15,3 +15,5 @@ Usage: perl SCRIPT.pl -i/--imafile path [-l/--locus_string string] [-p/--space_a
 example usage:
 
 perl IMAtoPHYLIP.pl -i rad_haplotyper_output.ima.txt -l dDocent -p 10
+
+To concatenate these PHYLIP files into a single file, look at the R package APEX.
